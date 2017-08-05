@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "ifn505",
+  "description": "Practical exercises from QUT's IFN505 unit, Analysis of Programs.",
+  "private": true,
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "tape **/*.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendo/ifn505.git"
+  },
+  "author": "Brendan Abbott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendo/ifn505/issues"
+  },
+  "homepage": "https://github.com/brendo/ifn505#readme",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  }
+}
