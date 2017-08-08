@@ -1,6 +1,6 @@
 # 🎓 IFN505: Analysis of Programs
 
-[![Travis CI](https://travis-ci.org/brendo/ifn505.svg?branch=master)](https://travis-ci.org/temando/open-api-renderer)
+[![Travis CI](https://travis-ci.org/brendo/ifn505.svg?branch=master)](https://travis-ci.org/brendo/ifn505)
 
 Practical exercises from QUT's unit [IFN505: Analysis of Programs](https://www.qut.edu.au/study/unit?unitCode=IFN505).
 
