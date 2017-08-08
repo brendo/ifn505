@@ -29,7 +29,7 @@ const NewNode = () => new Node()
  *
  * temp ← NewNode
  * temp ↑ data ← Val
- * temp ↑ data ← t
+ * temp ↑ next ← t
  * t ← temp
  */
 
